@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|c:\\users\\user\\desktop\\task\\biletsatispractice\\biletsatispractice\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|solutionrelative:biletsatispractice\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|c:\\users\\user\\desktop\\task\\biletsatispractice\\biletsatispractice\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|solutionrelative:biletsatispractice\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|c:\\users\\user\\desktop\\task\\biletsatispractice\\biletsatispractice\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|solutionrelative:biletsatispractice\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|c:\\users\\user\\desktop\\task\\biletsatispractice\\biletsatispractice\\data\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|solutionrelative:biletsatispractice\\data\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|c:\\users\\user\\desktop\\task\\biletsatispractice\\biletsatispractice\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|solutionrelative:biletsatispractice\\interfaces\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|c:\\users\\user\\desktop\\task\\biletsatispractice\\biletsatispractice\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|solutionrelative:biletsatispractice\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|c:\\users\\user\\desktop\\task\\biletsatispractice\\biletsatispractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|solutionrelative:biletsatispractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|c:\\users\\user\\desktop\\task\\biletsatispractice\\biletsatispractice\\exceptions\\eventexpiredexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|solutionrelative:biletsatispractice\\exceptions\\eventexpiredexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|c:\\users\\user\\desktop\\task\\biletsatispractice\\biletsatispractice\\exceptions\\ticketalreadyusedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|solutionrelative:biletsatispractice\\exceptions\\ticketalreadyusedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|c:\\users\\user\\desktop\\task\\biletsatispractice\\biletsatispractice\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|solutionrelative:biletsatispractice\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|c:\\users\\user\\desktop\\task\\biletsatispractice\\biletsatispractice\\biletsatispractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CE01BA2-6DE1-F6BF-E05A-E0CC01026BFD}|BiletSatisPractice\\BiletSatisPractice.csproj|solutionrelative:biletsatispractice\\biletsatispractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "BiletSatisPractice\\Interfaces\\IEventService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "BiletSatisPractice\\Interfaces\\IEventService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:56:07.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Program.cs",
+              "RelativeDocumentMoniker": "BiletSatisPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Program.cs",
+              "RelativeToolTip": "BiletSatisPractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:27:22.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Data\\TicketDbContext.cs",
+              "RelativeDocumentMoniker": "BiletSatisPractice\\Data\\TicketDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Data\\TicketDbContext.cs",
+              "RelativeToolTip": "BiletSatisPractice\\Data\\TicketDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:35:44.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Interfaces\\ITicketService.cs",
+              "RelativeDocumentMoniker": "BiletSatisPractice\\Interfaces\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Interfaces\\ITicketService.cs",
+              "RelativeToolTip": "BiletSatisPractice\\Interfaces\\ITicketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:46:04.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "BiletSatisPractice\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Services\\EventService.cs",
+              "RelativeToolTip": "BiletSatisPractice\\Services\\EventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:55:12.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "BiletSatisPractice\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Models\\Event.cs",
+              "RelativeToolTip": "BiletSatisPractice\\Models\\Event.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:28:49.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "BiletSatisPractice\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Models\\Ticket.cs",
+              "RelativeToolTip": "BiletSatisPractice\\Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T09:31:58.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventExpiredException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Exceptions\\EventExpiredException.cs",
+              "RelativeDocumentMoniker": "BiletSatisPractice\\Exceptions\\EventExpiredException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Exceptions\\EventExpiredException.cs",
+              "RelativeToolTip": "BiletSatisPractice\\Exceptions\\EventExpiredException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:47:21.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketAlreadyUsedException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Exceptions\\TicketAlreadyUsedException.cs",
+              "RelativeDocumentMoniker": "BiletSatisPractice\\Exceptions\\TicketAlreadyUsedException.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Exceptions\\TicketAlreadyUsedException.cs",
+              "RelativeToolTip": "BiletSatisPractice\\Exceptions\\TicketAlreadyUsedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T11:11:51.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "BiletSatisPractice\\Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\Services\\TicketService.cs",
+              "RelativeToolTip": "BiletSatisPractice\\Services\\TicketService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:46:24.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BiletSatisPractice.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\BiletSatisPractice.csproj",
+              "RelativeDocumentMoniker": "BiletSatisPractice\\BiletSatisPractice.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\BiletSatisPractice\\BiletSatisPractice\\BiletSatisPractice.csproj",
+              "RelativeToolTip": "BiletSatisPractice\\BiletSatisPractice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T09:28:34.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

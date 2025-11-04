@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\bin\Debug\net8.0\AcademyApp.DLL.deps.json
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\bin\Debug\net8.0\AcademyApp.DLL.runtimeconfig.json
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\bin\Debug\net8.0\AcademyApp.DLL.dll
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\bin\Debug\net8.0\AcademyApp.DLL.pdb
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\bin\Debug\net8.0\AcademyApp.Core.dll
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\bin\Debug\net8.0\AcademyApp.Core.pdb
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\obj\Debug\net8.0\AcademyApp.DLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\obj\Debug\net8.0\AcademyApp.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\obj\Debug\net8.0\AcademyApp.DLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\obj\Debug\net8.0\AcademyApp.DLL.AssemblyInfo.cs
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\obj\Debug\net8.0\AcademyApp.DLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\obj\Debug\net8.0\AcademyA.2BB446E3.Up2Date
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\obj\Debug\net8.0\AcademyApp.DLL.dll
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\obj\Debug\net8.0\refint\AcademyApp.DLL.dll
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\obj\Debug\net8.0\AcademyApp.DLL.pdb
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\obj\Debug\net8.0\AcademyApp.DLL.genruntimeconfig.cache
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.DLL\obj\Debug\net8.0\ref\AcademyApp.DLL.dll

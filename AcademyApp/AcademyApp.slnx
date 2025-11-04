@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AcademyApp.BLL/AcademyApp.BLL.csproj" />
+  <Project Path="AcademyApp.Core/AcademyApp.Core.csproj" />
+  <Project Path="AcademyApp.DLL/AcademyApp.DLL.csproj" />
+  <Project Path="AcademyApp.PL/AcademyApp.PL.csproj" />
+</Solution>

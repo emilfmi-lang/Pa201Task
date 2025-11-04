@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Task\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|c:\\users\\user\\desktop\\task\\library\\library\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|solutionrelative:library\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|c:\\users\\user\\desktop\\task\\library\\library\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|solutionrelative:library\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|c:\\users\\user\\desktop\\task\\library\\library\\library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|solutionrelative:library\\library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|c:\\users\\user\\desktop\\task\\library\\library\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|solutionrelative:library\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|c:\\users\\user\\desktop\\task\\library\\library\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|solutionrelative:library\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|c:\\users\\user\\desktop\\task\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|c:\\users\\user\\desktop\\task\\library\\library\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD8312AD-48D8-4C8E-B765-54BAF500E7BB}|Library\\Library.csproj|solutionrelative:library\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Library\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Services\\BookService.cs",
+              "RelativeToolTip": "Library\\Services\\BookService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:08:07.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "Library\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "Library\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:07:54.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Library\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Library\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:16:51.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Models\\Borrow.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\Borrow.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Models\\Borrow.cs",
+              "RelativeToolTip": "Library\\Models\\Borrow.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:16:27.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Models\\Book.cs",
+              "RelativeToolTip": "Library\\Models\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:16:14.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Library.csproj",
+              "RelativeDocumentMoniker": "Library\\Library.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Library.csproj",
+              "RelativeToolTip": "Library\\Library.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T06:16:00.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\Library\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T06:13:39.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

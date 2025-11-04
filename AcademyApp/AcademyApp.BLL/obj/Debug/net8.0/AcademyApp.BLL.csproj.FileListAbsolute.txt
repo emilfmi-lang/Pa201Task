@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\bin\Debug\net8.0\AcademyApp.BLL.deps.json
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\bin\Debug\net8.0\AcademyApp.BLL.dll
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\bin\Debug\net8.0\AcademyApp.BLL.pdb
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\obj\Debug\net8.0\AcademyApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\obj\Debug\net8.0\AcademyApp.BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\obj\Debug\net8.0\AcademyApp.BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\obj\Debug\net8.0\AcademyApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\obj\Debug\net8.0\AcademyApp.BLL.dll
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\obj\Debug\net8.0\refint\AcademyApp.BLL.dll
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\obj\Debug\net8.0\AcademyApp.BLL.pdb
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\obj\Debug\net8.0\ref\AcademyApp.BLL.dll
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\bin\Debug\net8.0\AcademyApp.Core.dll
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\bin\Debug\net8.0\AcademyApp.DLL.dll
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\bin\Debug\net8.0\AcademyApp.DLL.pdb
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\bin\Debug\net8.0\AcademyApp.Core.pdb
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\obj\Debug\net8.0\AcademyApp.BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Task\AcademyApp\AcademyApp.BLL\obj\Debug\net8.0\AcademyA.EF6A46E3.Up2Date
