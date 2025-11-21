@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\bin\Debug\net8.0\LibraryManagementSystem.DLL.deps.json
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\bin\Debug\net8.0\LibraryManagementSystem.DLL.runtimeconfig.json
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\bin\Debug\net8.0\LibraryManagementSystem.DLL.dll
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\bin\Debug\net8.0\LibraryManagementSystem.DLL.pdb
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\bin\Debug\net8.0\LibraryManagementSystem.Core.dll
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\bin\Debug\net8.0\LibraryManagementSystem.Core.pdb
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\obj\Debug\net8.0\LibraryManagementSystem.DLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\obj\Debug\net8.0\LibraryManagementSystem.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\obj\Debug\net8.0\LibraryManagementSystem.DLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\obj\Debug\net8.0\LibraryManagementSystem.DLL.AssemblyInfo.cs
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\obj\Debug\net8.0\LibraryManagementSystem.DLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\obj\Debug\net8.0\LibraryM.7163B3D3.Up2Date
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\obj\Debug\net8.0\LibraryManagementSystem.DLL.dll
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\obj\Debug\net8.0\refint\LibraryManagementSystem.DLL.dll
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\obj\Debug\net8.0\LibraryManagementSystem.DLL.pdb
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\obj\Debug\net8.0\LibraryManagementSystem.DLL.genruntimeconfig.cache
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.DLL\obj\Debug\net8.0\ref\LibraryManagementSystem.DLL.dll

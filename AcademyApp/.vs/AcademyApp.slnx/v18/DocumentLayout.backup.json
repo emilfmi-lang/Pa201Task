@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED76B01B-2814-3B11-F4CC-6AF6707916D7}|AcademyApp.BLL\\AcademyApp.BLL.csproj|c:\\users\\user\\desktop\\task\\academyapp\\academyapp.bll\\services\\groupservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED76B01B-2814-3B11-F4CC-6AF6707916D7}|AcademyApp.BLL\\AcademyApp.BLL.csproj|solutionrelative:academyapp.bll\\services\\groupservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{452F4B43-ED8B-96CC-E013-107BA6564BB0}|AcademyApp.DLL\\AcademyApp.DLL.csproj|c:\\users\\user\\desktop\\task\\academyapp\\academyapp.dll\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{452F4B43-ED8B-96CC-E013-107BA6564BB0}|AcademyApp.DLL\\AcademyApp.DLL.csproj|solutionrelative:academyapp.dll\\repositories\\concretes\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{452F4B43-ED8B-96CC-E013-107BA6564BB0}|AcademyApp.DLL\\AcademyApp.DLL.csproj|c:\\users\\user\\desktop\\task\\academyapp\\academyapp.dll\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{452F4B43-ED8B-96CC-E013-107BA6564BB0}|AcademyApp.DLL\\AcademyApp.DLL.csproj|solutionrelative:academyapp.dll\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED76B01B-2814-3B11-F4CC-6AF6707916D7}|AcademyApp.BLL\\AcademyApp.BLL.csproj|c:\\users\\user\\desktop\\task\\academyapp\\academyapp.bll\\services\\groupservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED76B01B-2814-3B11-F4CC-6AF6707916D7}|AcademyApp.BLL\\AcademyApp.BLL.csproj|solutionrelative:academyapp.bll\\services\\groupservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED8ADB31-4B3C-869A-226C-C1319FF02237}|AcademyApp.Core\\AcademyApp.Core.csproj|c:\\users\\user\\desktop\\task\\academyapp\\academyapp.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.DLL\\Repositories\\Concretes\\Repository.cs",
               "RelativeDocumentMoniker": "AcademyApp.DLL\\Repositories\\Concretes\\Repository.cs",
@@ -94,8 +94,7 @@
               "RelativeToolTip": "AcademyApp.DLL\\Repositories\\Concretes\\Repository.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAADwv04AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T19:53:48.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T19:53:48.944Z"
             },
             {
               "$type": "Document",
@@ -107,12 +106,11 @@
               "RelativeToolTip": "AcademyApp.Core\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T19:45:23.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T19:45:23.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.DLL\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "AcademyApp.DLL\\Repositories\\Interfaces\\IRepository.cs",
@@ -120,8 +118,7 @@
               "RelativeToolTip": "AcademyApp.DLL\\Repositories\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAYwBQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T19:44:05.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T19:44:05.87Z"
             },
             {
               "$type": "Document",
@@ -133,8 +130,7 @@
               "RelativeToolTip": "AcademyApp.BLL\\ProFiles\\MapProfile.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:56:27.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T18:56:27.558Z"
             },
             {
               "$type": "Document",
@@ -146,18 +142,17 @@
               "RelativeToolTip": "AcademyApp.BLL\\Dtos\\Groups\\GroupReturnDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:44:12.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T18:44:12.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GroupServices.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.BLL\\Services\\GroupServices.cs",
               "RelativeDocumentMoniker": "AcademyApp.BLL\\Services\\GroupServices.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.BLL\\Services\\GroupServices.cs",
               "RelativeToolTip": "AcademyApp.BLL\\Services\\GroupServices.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T18:08:07.447Z",
               "EditorCaption": ""
@@ -172,8 +167,7 @@
               "RelativeToolTip": "AcademyApp.Core\\Models\\Student.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T20:07:00.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T20:07:00.084Z"
             },
             {
               "$type": "Document",
@@ -185,8 +179,7 @@
               "RelativeToolTip": "AcademyApp.Core\\Models\\Group.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAuwAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T19:57:03.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T19:57:03.532Z"
             },
             {
               "$type": "Document",
@@ -198,8 +191,7 @@
               "RelativeToolTip": "AcademyApp.BLL\\Dtos\\Groups\\GroupCreateDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:12:07.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T18:12:07.249Z"
             },
             {
               "$type": "Document",
@@ -211,8 +203,7 @@
               "RelativeToolTip": "AcademyApp.PL\\Program.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:06:58.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T18:06:58.057Z"
             },
             {
               "$type": "Document",
@@ -224,8 +215,7 @@
               "RelativeToolTip": "AcademyApp.BLL\\Interfaces\\IGroupServices.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T19:30:54.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T19:30:54.135Z"
             },
             {
               "$type": "Document",
@@ -237,8 +227,7 @@
               "RelativeToolTip": "AcademyApp.DLL\\Data\\Configurations\\GroupConfiguration.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T18:16:09.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T18:16:09.737Z"
             },
             {
               "$type": "Document",
@@ -250,8 +239,7 @@
               "RelativeToolTip": "AcademyApp.BLL\\Services\\StudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T16:35:13.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T16:35:13.692Z"
             },
             {
               "$type": "Document",
@@ -263,21 +251,19 @@
               "RelativeToolTip": "AcademyApp.Core\\Enums\\StudentTypes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T18:03:36.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T18:03:36.148Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "AcademyApp.Core",
+              "Title": "AcademyApp.Core.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.Core\\AcademyApp.Core.csproj",
               "RelativeDocumentMoniker": "AcademyApp.Core\\AcademyApp.Core.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.Core\\AcademyApp.Core.csproj",
               "RelativeToolTip": "AcademyApp.Core\\AcademyApp.Core.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-04T18:03:13.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T18:03:13.284Z"
             },
             {
               "$type": "Document",
@@ -289,8 +275,7 @@
               "RelativeToolTip": "AcademyApp.DLL\\Data\\Configurations\\StudentConfiguration.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T20:11:03.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T20:11:03.774Z"
             },
             {
               "$type": "Document",
@@ -302,8 +287,7 @@
               "RelativeToolTip": "AcademyApp.DLL\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T15:57:38.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T15:57:38.308Z"
             },
             {
               "$type": "Document",
@@ -315,8 +299,7 @@
               "RelativeToolTip": "AcademyApp.BLL\\AcademyApp.BLL.csproj",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-03T18:07:54.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T18:07:54.546Z"
             }
           ]
         }

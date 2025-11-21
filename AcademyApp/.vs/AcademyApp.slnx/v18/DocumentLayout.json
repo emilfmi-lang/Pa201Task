@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{452F4B43-ED8B-96CC-E013-107BA6564BB0}|AcademyApp.DLL\\AcademyApp.DLL.csproj|c:\\users\\user\\desktop\\task\\academyapp\\academyapp.dll\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452F4B43-ED8B-96CC-E013-107BA6564BB0}|AcademyApp.DLL\\AcademyApp.DLL.csproj|solutionrelative:academyapp.dll\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED76B01B-2814-3B11-F4CC-6AF6707916D7}|AcademyApp.BLL\\AcademyApp.BLL.csproj|c:\\users\\user\\desktop\\task\\academyapp\\academyapp.bll\\services\\groupservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED76B01B-2814-3B11-F4CC-6AF6707916D7}|AcademyApp.BLL\\AcademyApp.BLL.csproj|solutionrelative:academyapp.bll\\services\\groupservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{452F4B43-ED8B-96CC-E013-107BA6564BB0}|AcademyApp.DLL\\AcademyApp.DLL.csproj|solutionrelative:academyapp.dll\\data\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{452F4B43-ED8B-96CC-E013-107BA6564BB0}|AcademyApp.DLL\\AcademyApp.DLL.csproj|c:\\users\\user\\desktop\\task\\academyapp\\academyapp.dll\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{452F4B43-ED8B-96CC-E013-107BA6564BB0}|AcademyApp.DLL\\AcademyApp.DLL.csproj|solutionrelative:academyapp.dll\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED76B01B-2814-3B11-F4CC-6AF6707916D7}|AcademyApp.BLL\\AcademyApp.BLL.csproj|c:\\users\\user\\desktop\\task\\academyapp\\academyapp.bll\\academyapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{ED76B01B-2814-3B11-F4CC-6AF6707916D7}|AcademyApp.BLL\\AcademyApp.BLL.csproj|solutionrelative:academyapp.bll\\academyapp.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -82,24 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.DLL\\Repositories\\Concretes\\Repository.cs",
-              "RelativeDocumentMoniker": "AcademyApp.DLL\\Repositories\\Concretes\\Repository.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.DLL\\Repositories\\Concretes\\Repository.cs",
-              "RelativeToolTip": "AcademyApp.DLL\\Repositories\\Concretes\\Repository.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAADwv04AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T19:53:48.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.Core\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "AcademyApp.Core\\Models\\BaseEntity.cs",
@@ -111,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.DLL\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "AcademyApp.DLL\\Repositories\\Interfaces\\IRepository.cs",
@@ -123,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MapProfile.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.BLL\\ProFiles\\MapProfile.cs",
               "RelativeDocumentMoniker": "AcademyApp.BLL\\ProFiles\\MapProfile.cs",
@@ -135,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GroupReturnDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.BLL\\Dtos\\Groups\\GroupReturnDto.cs",
               "RelativeDocumentMoniker": "AcademyApp.BLL\\Dtos\\Groups\\GroupReturnDto.cs",
@@ -147,20 +134,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GroupServices.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.BLL\\Services\\GroupServices.cs",
               "RelativeDocumentMoniker": "AcademyApp.BLL\\Services\\GroupServices.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.BLL\\Services\\GroupServices.cs",
               "RelativeToolTip": "AcademyApp.BLL\\Services\\GroupServices.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T18:08:07.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.Core\\Models\\Student.cs",
               "RelativeDocumentMoniker": "AcademyApp.Core\\Models\\Student.cs",
@@ -172,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.Core\\Models\\Group.cs",
               "RelativeDocumentMoniker": "AcademyApp.Core\\Models\\Group.cs",
@@ -184,7 +171,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.DLL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AcademyApp.DLL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.DLL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AcademyApp.DLL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T15:57:38.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.DLL\\Repositories\\Concretes\\Repository.cs",
+              "RelativeDocumentMoniker": "AcademyApp.DLL\\Repositories\\Concretes\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.DLL\\Repositories\\Concretes\\Repository.cs",
+              "RelativeToolTip": "AcademyApp.DLL\\Repositories\\Concretes\\Repository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv04AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:53:48.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "GroupCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.BLL\\Dtos\\Groups\\GroupCreateDto.cs",
               "RelativeDocumentMoniker": "AcademyApp.BLL\\Dtos\\Groups\\GroupCreateDto.cs",
@@ -196,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.PL\\Program.cs",
               "RelativeDocumentMoniker": "AcademyApp.PL\\Program.cs",
@@ -208,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IGroupServices.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.BLL\\Interfaces\\IGroupServices.cs",
               "RelativeDocumentMoniker": "AcademyApp.BLL\\Interfaces\\IGroupServices.cs",
@@ -220,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GroupConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.DLL\\Data\\Configurations\\GroupConfiguration.cs",
               "RelativeDocumentMoniker": "AcademyApp.DLL\\Data\\Configurations\\GroupConfiguration.cs",
@@ -232,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.BLL\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "AcademyApp.BLL\\Services\\StudentService.cs",
@@ -244,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "StudentTypes.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.Core\\Enums\\StudentTypes.cs",
               "RelativeDocumentMoniker": "AcademyApp.Core\\Enums\\StudentTypes.cs",
@@ -256,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AcademyApp.Core.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.Core\\AcademyApp.Core.csproj",
               "RelativeDocumentMoniker": "AcademyApp.Core\\AcademyApp.Core.csproj",
@@ -268,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "StudentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.DLL\\Data\\Configurations\\StudentConfiguration.cs",
               "RelativeDocumentMoniker": "AcademyApp.DLL\\Data\\Configurations\\StudentConfiguration.cs",
@@ -277,18 +289,6 @@
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T20:11:03.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.DLL\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "AcademyApp.DLL\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Task\\AcademyApp\\AcademyApp.DLL\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "AcademyApp.DLL\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA4AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T15:57:38.308Z"
             },
             {
               "$type": "Document",

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\net8.0\LibraryManagementSystem.Core.deps.json
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\net8.0\LibraryManagementSystem.Core.runtimeconfig.json
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\net8.0\LibraryManagementSystem.Core.dll
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\bin\Debug\net8.0\LibraryManagementSystem.Core.pdb
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.AssemblyInfo.cs
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.dll
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net8.0\refint\LibraryManagementSystem.Core.dll
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.pdb
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net8.0\LibraryManagementSystem.Core.genruntimeconfig.cache
+C:\Users\User\Desktop\AcademyTTak\LibraryManagementSystem\LibraryManagementSystem.Core\obj\Debug\net8.0\ref\LibraryManagementSystem.Core.dll

@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|c:\\users\\user\\desktop\\academyttak\\librarymanagementsystem\\librarymanagementsystem.dll\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|solutionrelative:librarymanagementsystem.dll\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|c:\\users\\user\\desktop\\academyttak\\librarymanagementsystem\\librarymanagementsystem.dll\\repositories\\interfaces\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|solutionrelative:librarymanagementsystem.dll\\repositories\\interfaces\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D9C8EE-A8AA-4B0E-796F-8241B43B05DE}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|c:\\users\\user\\desktop\\academyttak\\librarymanagementsystem\\librarymanagementsystem.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D9C8EE-A8AA-4B0E-796F-8241B43B05DE}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|solutionrelative:librarymanagementsystem.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D9C8EE-A8AA-4B0E-796F-8241B43B05DE}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|c:\\users\\user\\desktop\\academyttak\\librarymanagementsystem\\librarymanagementsystem.core\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D9C8EE-A8AA-4B0E-796F-8241B43B05DE}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|solutionrelative:librarymanagementsystem.core\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D9C8EE-A8AA-4B0E-796F-8241B43B05DE}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|c:\\users\\user\\desktop\\academyttak\\librarymanagementsystem\\librarymanagementsystem.core\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D9C8EE-A8AA-4B0E-796F-8241B43B05DE}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|solutionrelative:librarymanagementsystem.core\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D9C8EE-A8AA-4B0E-796F-8241B43B05DE}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|c:\\users\\user\\desktop\\academyttak\\librarymanagementsystem\\librarymanagementsystem.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D9C8EE-A8AA-4B0E-796F-8241B43B05DE}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|solutionrelative:librarymanagementsystem.core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|c:\\users\\user\\desktop\\academyttak\\librarymanagementsystem\\librarymanagementsystem.dll\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|solutionrelative:librarymanagementsystem.dll\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D9C8EE-A8AA-4B0E-796F-8241B43B05DE}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|c:\\users\\user\\desktop\\academyttak\\librarymanagementsystem\\librarymanagementsystem.core\\enum\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D9C8EE-A8AA-4B0E-796F-8241B43B05DE}|LibraryManagementSystem.Core\\LibraryManagementSystem.Core.csproj|solutionrelative:librarymanagementsystem.core\\enum\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|c:\\users\\user\\desktop\\academyttak\\librarymanagementsystem\\librarymanagementsystem.dll\\librarymanagementsystem.dll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|solutionrelative:librarymanagementsystem.dll\\librarymanagementsystem.dll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5157F-C05A-0184-A307-9D6988EE4BF1}|LibraryManagementSystem.BLL\\LibraryManagementSystem.BLL.csproj|c:\\users\\user\\desktop\\academyttak\\librarymanagementsystem\\librarymanagementsystem.bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5157F-C05A-0184-A307-9D6988EE4BF1}|LibraryManagementSystem.BLL\\LibraryManagementSystem.BLL.csproj|solutionrelative:librarymanagementsystem.bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|c:\\users\\user\\desktop\\academyttak\\librarymanagementsystem\\librarymanagementsystem.dll\\data\\configure\\bookconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|solutionrelative:librarymanagementsystem.dll\\data\\configure\\bookconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|c:\\users\\user\\desktop\\academyttak\\librarymanagementsystem\\librarymanagementsystem.dll\\data\\configure\\orderconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|solutionrelative:librarymanagementsystem.dll\\data\\configure\\orderconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|c:\\users\\user\\desktop\\academyttak\\librarymanagementsystem\\librarymanagementsystem.dll\\data\\configure\\orderitemconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBA0772-5E4B-C0F5-B074-EC0019124700}|LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj|solutionrelative:librarymanagementsystem.dll\\data\\configure\\orderitemconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\Repositories\\Interfaces\\Interface1.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.DLL\\Repositories\\Interfaces\\Interface1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\Repositories\\Interfaces\\Interface1.cs",
+              "RelativeToolTip": "LibraryManagementSystem.DLL\\Repositories\\Interfaces\\Interface1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:58:48.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "LibraryManagementSystem.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:43:58.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\Repositories\\Concretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.DLL\\Repositories\\Concretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\Repositories\\Concretes\\GenericRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystem.DLL\\Repositories\\Concretes\\GenericRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:43:39.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "globalusing.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\globalusing.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.DLL\\globalusing.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\globalusing.cs",
+              "RelativeToolTip": "LibraryManagementSystem.DLL\\globalusing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:03:52.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Core\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem.Core\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:59:49.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Core\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Models\\Order.cs",
+              "RelativeToolTip": "LibraryManagementSystem.Core\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:00:09.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.BLL\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.BLL\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.BLL\\Services\\BookService.cs",
+              "RelativeToolTip": "LibraryManagementSystem.BLL\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T16:40:54.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Core\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Models\\OrderItem.cs",
+              "RelativeToolTip": "LibraryManagementSystem.Core\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:00:36.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryManagementSystem.DLL.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj",
+              "RelativeToolTip": "LibraryManagementSystem.DLL\\LibraryManagementSystem.DLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T13:01:34.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Enum\\Category.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.Core\\Enum\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.Core\\Enum\\Category.cs",
+              "RelativeToolTip": "LibraryManagementSystem.Core\\Enum\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:06:53.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\Data\\Configure\\BookConfigure.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.DLL\\Data\\Configure\\BookConfigure.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\Data\\Configure\\BookConfigure.cs",
+              "RelativeToolTip": "LibraryManagementSystem.DLL\\Data\\Configure\\BookConfigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:25:16.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\Data\\Configure\\OrderConfigure.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.DLL\\Data\\Configure\\OrderConfigure.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\Data\\Configure\\OrderConfigure.cs",
+              "RelativeToolTip": "LibraryManagementSystem.DLL\\Data\\Configure\\OrderConfigure.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:25:40.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItemConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\Data\\Configure\\OrderItemConfigure.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.DLL\\Data\\Configure\\OrderItemConfigure.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\AcademyTTak\\LibraryManagementSystem\\LibraryManagementSystem.DLL\\Data\\Configure\\OrderItemConfigure.cs",
+              "RelativeToolTip": "LibraryManagementSystem.DLL\\Data\\Configure\\OrderItemConfigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:25:54.963Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
